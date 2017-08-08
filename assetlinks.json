@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sjtu.yifei.app",
+    "sha256_cert_fingerprints":
+    ["12:C6:55:8E:5E:05:4D:F8:F3:DE:1A:C4:AA:20:3E:07:DF:2B:08:E8:6F:61:52:E6:A8:AC:E7:C5:8A:D7:79:07"]
+  }
+}]
